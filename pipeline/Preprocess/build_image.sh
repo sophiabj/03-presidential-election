@@ -1,4 +1,4 @@
-image_name=gcr.io/kube/kubeflow/presidentialelections/preprocess
+image_name=gcr.io/kube01/kubeflow/presidentialelections/preprocess
 image_tag=latest
 
 full_image_name=${image_name}:${image_tag}
