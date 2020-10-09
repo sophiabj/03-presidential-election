@@ -1,3 +1,5 @@
+#!/bin/sh
+
 image_name=gcr.io/kube01/kubeflow/presidentialelections/preprocess
 image_tag=latest
 
